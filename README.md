@@ -8,9 +8,9 @@ A React + Tailwind shopping cart that applies special offers dynamically.
 - Butter at one-third off
 
 ## Tech Stack
-- React (Vite)
+- React (Vite) and Redux toolkit
 - Tailwind CSS
-- JavaScript
+- TypeScript
 
 ## Run Locally
 npm install
